@@ -2,7 +2,7 @@
 .bin
 
 # Environments
-project_env/
+project-env/
 
 # VSCode settings
 .vscode/
