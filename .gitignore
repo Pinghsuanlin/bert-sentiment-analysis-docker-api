@@ -11,7 +11,7 @@ input/
 
 tempDoc.txt
 
-_pycache_/
+**/__pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints
